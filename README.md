@@ -13,7 +13,7 @@ Este projeto implenta um padrão de conexão segura com o banco de dados, utiliz
 ## Exemplo de uso 
 Abaixo, o codigo padrão utilizado pelo arquiteto:
 
-'''python
+```python
 # constante de confuguração 
 DB_HOST = "192.168.0.1"
 
