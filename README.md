@@ -1,4 +1,4 @@
-# Documentação do Módulo deConexão
+# Documentação do Módulo de Conexão
 
 ## Descrição
 Este projeto implenta um padrão de conexão segura com o banco de dados, utilizando **Desing Pattern** para evitar *hard coding*.
